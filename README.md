@@ -1,48 +1,37 @@
 # Online_Voting
-🥘 Food Order Website Complete Course
+This website helps to conduct the voting at the college for selection of GS or other post
 <br>
-In this course, you'll learn to Create a Complete Dynamic and Fully Functional Website using PHP prrogramming language and MySQL Database.
-<br>
+
+
 ⚙️ Technology Used
 HTML5
 CSS3
 Core/Procedural PHP programming language
 MySQL Relational Database
-🧰 Features
-Visitors/Users can browse all the Categories and Food Items.
-They also can order easily from the website.
-Admin can Manage Admin, Caegories and Food Items
-Admin can also Manage and Track Food Order and Delivery
-🎓 Access the Course
-Click Here and Learn to develop a fully functional and dynamic "Food Order System" with PHP programming language and MySQL Database.
-
-
-
+<br>
 📖 How to Download the Project and Run on your PC?
-Pre-Requisites:
+1.Pre-Requisites:
 Download and Install XAMPP
 Click Here to Download
+https://www.apachefriends.org/index.html
 
-Install any Text Editor (Sublime Text or Visual Studio Code or Atom or Brackets)
+2.Install any Text Editor (Sublime Text or Visual Studio Code or Atom or Brackets)
 Installation
-Download as as Zip or Clone this project
+3.Download as as Zip or Clone this project
 Move this project to Root Directory
 Local Disc C: -> xampp -> htdocs -> 'this project'
 Local Disk C is the location where xampp was installed
 
-Open XAMPP Control Panel and Start 'Apache' and 'MySQL'
+4.Open XAMPP Control Panel and Start 'Apache' and 'MySQL'
 
-Import Database
+5.Import Database
 
-a. Open 'phpmyadmin' in your browser b. Create a Database c. Import the SQL file provided with this project
+a. Open 'phpmyadmin' in your browser
+b. Create a Database 
+c. Create the database register in that create the table en having the column name,mobile,city,address,password,cpassword,dt,voter and adhar
+d. create the database voting in that create the four schemas i.e computer,electrical,civil,mechanical with having only one column i.e count
 
-Make Changes to settings
-Go to 'config' folder and Open 'constants.php' file. Then make changes on following constants
-
-
-    
-
-Now, Open the project in your browser. It should run perfectly.
+e.Now, Open the project in your browser. It should run perfectly.
 
 
 
