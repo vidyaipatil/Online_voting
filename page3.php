@@ -70,7 +70,7 @@
         <div class="row  mt-4  d-flex justify-content-around" style="height:auto;">
             <div class="col-md-4 m-3  con">
                 <div class="row d-flex justify-content-center" >
-                    <img class="img-fluid logo" src="logo.png">
+                    <img class="img-fluid logo" src="/images/logo.png">
                 </div>
                 <div class="row mt-3 ms-4">
                     <p class="font" >Name     : <?php echo $name;?></p>
@@ -103,7 +103,7 @@
                     <div class="col-md-1 justify-self-end fs-5">1</div>
                     <div class="col-md-4 justify-self-end  fs-5">Computer</div>
                     <div class="col-md-3 justify-self-end">
-                        <img class="img1 img-fluid" src="comp.jpg">
+                        <img class="img1 img-fluid" src="/images/book.jpg">
                     </div>
                     <div class="col-sm-3 justify-self-end mt-3">
                      
@@ -116,7 +116,7 @@
                     <div class="col-sm-1 justify-self-end fs-5">2</div>
                     <div class="col-sm-4 justify-self-end fs-5">Mechanical</div>
                     <div class="col-sm-3 justify-self-end">
-                        <img class="img1 img-fluid" src="comp.jpg">
+                        <img class="img1 img-fluid" src="/images/mech.jpg">
                     </div>
                     <div class="col-sm-3 justify-self-end mt-3">
                         <button class="head text-white" name="mechanical" onclick="hideButton(this)">Vote</button>
@@ -126,7 +126,7 @@
                     <div class="col-sm-1 justify-self-end fs-5">3</div>
                     <div class="col-sm-4 justify-self-end fs-5">Civil</div>
                     <div class="col-sm-3 justify-self-end">
-                        <img class="img1 img-fluid" src="comp.jpg">
+                        <img class="img1 img-fluid" src="/images/civil.jpg">
                     </div>
                     <div class="col-sm-3 justify-self-end mt-3">
                         <button class="head text-white" name="civil" onclick="hideButton(this)">Vote</button>
@@ -136,7 +136,7 @@
                     <div class="col-sm-1 justify-self-end fs-5">4</div>
                     <div class="col-sm-4 justify-self-end fs-5">Electrical</div>
                     <div class="col-sm-3 justify-self-end">
-                        <img class="img1 img-fluid" src="comp.jpg">
+                        <img class="img1 img-fluid" src="/images/electrical">
                     </div>
                     <div class="col-sm-3 justify-self-end mt-3">
                         <button class="head text-white" name="electrical" onclick="hideButton(this)">Vote</button>
